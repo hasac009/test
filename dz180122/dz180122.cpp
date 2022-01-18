@@ -1,10 +1,13 @@
 ﻿
-
 #include <iostream>
 
+void PrintNazar() 
+{
+    std::cout << "nazar";
+}
 int main()
 {
-    std::cout << "Hello World!\n";
+    PrintNazar();
 }
 
 
